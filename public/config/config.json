@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x390f0B0E57D81cCe55c27744E717eA78d1a069F0",
+  "SCAN_LINK": "https://polygonscan.com/token/0x390f0B0E57D81cCe55c27744E717eA78d1a069F0",
+  "NETWORK": {
+    "NAME": "Polygon Testnet Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "cluo test",
+  "SYMBOL": "cluo",
+  "MAX_SUPPLY": 4,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cluo-nft-test-v4",
+  "SHOW_BACKGROUND": true
+}
